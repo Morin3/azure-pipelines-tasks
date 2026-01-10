@@ -22,7 +22,7 @@
     "appcenter-cli": "^3.0.0",
     "azure-devops-node-api": "^11.1.0",
     "azure-pipelines-task-lib": "^4.13.0",
-    "glob": "^7.0.6"
+    "glob": "^9.0.0"
   },
   "devDependencies": {
     "typescript": "5.1.6"
