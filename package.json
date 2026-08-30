@@ -40,7 +40,7 @@
     "node-fetch": "2.6.11",
     "node-uuid": "1.4.6",
     "nodejs-file-downloader": "^4.11.1",
-    "nyc": "^15.1.0",
+    "nyc": "^18.0.0",
     "q": "1.4.1",
     "semver": "4.3.3",
     "shelljs": "^0.8.5",
